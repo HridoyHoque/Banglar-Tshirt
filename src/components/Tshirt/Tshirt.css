@@ -1,0 +1,18 @@
+.T-shirt{
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    padding: 10px;
+   
+}
+.T-shirt img{
+    height: 250px;
+    border-radius: 10px;
+}
+
+.btn-phurchase{
+    background-color: lightskyblue;
+}
+.T-shirt button:hover  {
+    background-color: rgb(230, 231, 229);
+    
+}
